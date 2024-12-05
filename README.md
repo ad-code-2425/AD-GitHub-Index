@@ -8,3 +8,4 @@
 - [Actividad 1.5](https://github.com/ad-code-2425/Actividade-1.5--Ejemplos-Stax)
 ### Tarea
 - [Tarea1.1 enunciado](https://github.com/ad-code-2425/Tarea1.1-Enunciado)
+- [Tarea02.1-sol](https://github.com/ad-code-2425/Tarea02.1-Sol/)
