@@ -11,5 +11,5 @@
 - [Tarea1.1 enunciado](https://github.com/ad-code-2425/Tarea1.1-Enunciado)
 - [Tarea02.1-sol](https://github.com/ad-code-2425/Tarea02.1-Sol/)
 
-- ## UD2
+## UD2
 - [Prueba Práctica UD2-sol](https://github.com/ad-code-2425/PruebaUD2-sol.git)
