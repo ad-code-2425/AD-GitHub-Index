@@ -14,3 +14,7 @@
 ## UD2
 - [Tarea02.1-Sol](https://github.com/ad-code-2425/Tarea02.1-Sol)
 - [Prueba Práctica UD2-sol](https://github.com/ad-code-2425/PruebaUD2-sol.git)
+
+## UD3
+- [Actividade 3.1](Actividade3.1-Hibernate-init Public)
+- [Actividade 3.2 (Parte MySQL)](https://github.com/ad-code-2425/Actividade-3.2)
